@@ -24,3 +24,17 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.bg-turquoise {
+  background-color: #90DBD6;
+}
+
+
+.bg-orange {
+  background-color: #E54500;
+}
+
+.text-orange {
+  color: #E54500;
+}
