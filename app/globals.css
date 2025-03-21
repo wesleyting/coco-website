@@ -38,3 +38,13 @@ body {
 .text-orange {
   color: #E54500;
 }
+
+.splide__slide {
+  opacity: 0.5;
+}
+.splide__slide.is-active {
+  opacity: 1;
+}
+
+
+
