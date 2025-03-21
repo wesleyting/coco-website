@@ -1,7 +1,6 @@
 export default function LocationSection() {
   return (
     <section
-      section
       id="location"
       className="bg-white text-black py-16 px-6 mb-2 lg:mb-8"
     >
