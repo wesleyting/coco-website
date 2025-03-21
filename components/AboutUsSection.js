@@ -5,7 +5,7 @@ export default function AboutUsSection() {
       className="bg-[#e8ddd1] text-black pt-20 relative overflow-hidden"
     >
       {/* Coconut wedge (top-left) */}
-      <img
+      <Image
         src="/coconut-wedge.png"
         alt=""
         aria-hidden="true"
@@ -13,7 +13,7 @@ export default function AboutUsSection() {
       />
 
       {/* Coffee beans (top-right) */}
-      <img
+      <Image
         src="/coffee-beans.png"
         alt=""
         aria-hidden="true"
@@ -35,7 +35,7 @@ export default function AboutUsSection() {
       </div>
 
       <div className="mt-3 xl:mt-6 max-w-5xl mx-auto px-6 relative z-10">
-        <img
+        <Image
           src="/drink-top.png"
           alt="Top of drink"
           className="w-full h-auto object-contain rounded-xl"

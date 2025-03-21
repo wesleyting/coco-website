@@ -6,7 +6,7 @@ export default function Header() {
       <div className="max-w-xl lg:max-w-2xl xl:max-w-3xl mx-auto px-2 pt-4 md:px-4 md:py-6 font-semibold">
         {/* Top Row: Centered Logo */}
         <div className="relative flex items-center justify-center md:pb-2">
-          <img
+          <Image
             src="/logo.png"
             alt="Coco Logo"
             className="h-16 sm:h-20 w-auto mx-auto lg:h-22"
