@@ -33,7 +33,7 @@ export default function Hero() {
 
         {/* Right: Image (absolute on desktop) */}
         <div className="relative md:absolute md:top-1/2 md:right-[0%] md:translate-y-[-50%] z-[30] max-w-[500px] md:max-w-[550px] lg:max-w-[70%] xl:max-w-[850px] mx-auto md:mx-0 ">
-          <Image
+          <img
             src="/hero-image.png"
             alt="Hero Drink"
             className="w-full h-auto object-contain"

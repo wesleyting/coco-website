@@ -170,7 +170,7 @@ export default function OurMenu() {
                 <SplideSlide key={index}>
                   <div className="flex items-center justify-center">
                     <div className="">
-                      <Image
+                      <img
                         src={slide.image}
                         alt={slide.title}
                         className="w-full h-full object-contain rounded-xl"
