@@ -28,7 +28,7 @@ export default function AboutUsSection() {
           Welcome to CoCo - your go-to spot for refreshing drinks and delicious
           snacks! Located right inside Summer Mall, we proudly serve walk-in
           customers looking for a quick pick-me-up, a cozy place to chill, or
-          something tasty to-go. Whether you're craving icy fruit teas, creamy
+          something tasty to go. Whether you are craving icy fruit teas, creamy
           bubble milk tea, or crispy fried bites - we have something for
           everyone.
         </p>
