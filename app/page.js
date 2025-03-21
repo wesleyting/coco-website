@@ -19,6 +19,8 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Test */}
+
         <Menu />
         <AboutUsSection />
         <LocationSection />
