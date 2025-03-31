@@ -6,6 +6,7 @@ import Menu from "../components/Menu";
 import AboutUsSection from "../components/AboutUsSection";
 import LocationSection from "../components/LocationSection";
 import Footer from "../components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Home() {
   return (
@@ -26,6 +27,7 @@ export default function Home() {
         <LocationSection />
         <Footer />
       </main>
+      <Analytics />
     </div>
   );
 }
